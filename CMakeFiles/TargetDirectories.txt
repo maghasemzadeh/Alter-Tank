@@ -1,0 +1,3 @@
+/home/amin/Desktop/Programming/Classes/C/Alter-Tank/CMakeFiles/rebuild_cache.dir
+/home/amin/Desktop/Programming/Classes/C/Alter-Tank/CMakeFiles/project.dir
+/home/amin/Desktop/Programming/Classes/C/Alter-Tank/CMakeFiles/edit_cache.dir

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/amin/Desktop/Programming/Classes/C/Alter-Tank"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/amin/Desktop/Programming/Classes/C/Alter-Tank/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/amin/Desktop/Programming/Classes/C/Alter-Tank/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/amin/Desktop/Programming/Classes/C/Alter-Tank/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/amin/Desktop/Programming/Classes/C/Alter-Tank/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/amin/Desktop/Programming/Classes/C/Alter-Tank"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/amin/Desktop/Programming/Classes/C/Alter-Tank/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/amin/Desktop/Programming/Classes/C/Alter-Tank/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/amin/Desktop/Programming/Classes/C/Alter-Tank/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/amin/Desktop/Programming/Classes/C/Alter-Tank/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project">
+				<Option output="/home/amin/Desktop/Programming/Classes/C/Alter-Tank/project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/amin/Desktop/Programming/Classes/C/Alter-Tank"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/amin/Desktop/Programming/Classes/C/Alter-Tank/Makefile&quot;  VERBOSE=1 project"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/amin/Desktop/Programming/Classes/C/Alter-Tank/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/amin/Desktop/Programming/Classes/C/Alter-Tank/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/amin/Desktop/Programming/Classes/C/Alter-Tank/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project/fast">
+				<Option output="/home/amin/Desktop/Programming/Classes/C/Alter-Tank/project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/amin/Desktop/Programming/Classes/C/Alter-Tank"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/amin/Desktop/Programming/Classes/C/Alter-Tank/Makefile&quot;  VERBOSE=1 project/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/amin/Desktop/Programming/Classes/C/Alter-Tank/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/amin/Desktop/Programming/Classes/C/Alter-Tank/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/amin/Desktop/Programming/Classes/C/Alter-Tank/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/amin/Desktop/Programming/Classes/C/Alter-Tank"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/amin/Desktop/Programming/Classes/C/Alter-Tank/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/amin/Desktop/Programming/Classes/C/Alter-Tank/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/amin/Desktop/Programming/Classes/C/Alter-Tank/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/amin/Desktop/Programming/Classes/C/Alter-Tank/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/amin/Desktop/Programming/Classes/C/Alter-Tank/src/AI.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/amin/Desktop/Programming/Classes/C/Alter-Tank/src/AI.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/amin/Desktop/Programming/Classes/C/Alter-Tank/src/UI.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/amin/Desktop/Programming/Classes/C/Alter-Tank/src/UI.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/amin/Desktop/Programming/Classes/C/Alter-Tank/src/effects.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/amin/Desktop/Programming/Classes/C/Alter-Tank/src/effects.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/amin/Desktop/Programming/Classes/C/Alter-Tank/src/init.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/amin/Desktop/Programming/Classes/C/Alter-Tank/src/init.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/amin/Desktop/Programming/Classes/C/Alter-Tank/src/logic.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/amin/Desktop/Programming/Classes/C/Alter-Tank/src/logic.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/amin/Desktop/Programming/Classes/C/Alter-Tank/src/main.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/amin/Desktop/Programming/Classes/C/Alter-Tank/src/physics.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/amin/Desktop/Programming/Classes/C/Alter-Tank/src/physics.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/amin/Desktop/Programming/Classes/C/Alter-Tank/src/power-ups.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/amin/Desktop/Programming/Classes/C/Alter-Tank/src/power-ups.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/amin/Desktop/Programming/Classes/C/Alter-Tank/src/simple_snake.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/amin/Desktop/Programming/Classes/C/Alter-Tank/src/stack.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/amin/Desktop/Programming/Classes/C/Alter-Tank/src/stack.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/amin/Desktop/Programming/Classes/C/Alter-Tank/src/structs.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/amin/Desktop/Programming/Classes/C/Alter-Tank/src/view.c">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/amin/Desktop/Programming/Classes/C/Alter-Tank/src/view.h">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="/home/amin/Desktop/Programming/Classes/C/Alter-Tank/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

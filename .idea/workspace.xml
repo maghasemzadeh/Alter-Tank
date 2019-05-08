@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="project" targetName="project" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ba8ca5a-09a3-444b-9a4c-62a7fdc81da9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/project.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/project.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/project.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/project.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/project.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/project.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/project.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/project.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/project.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/project.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/project.dir/src/AI.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/project.dir/src/AI.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/project.dir/src/UI.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/project.dir/src/UI.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/project.dir/src/effects.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/project.dir/src/effects.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/project.dir/src/init.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/project.dir/src/init.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/project.dir/src/logic.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/project.dir/src/logic.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/project.dir/src/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/project.dir/src/main.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/project.dir/src/physics.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/project.dir/src/physics.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/project.dir/src/power-ups.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/project.dir/src/power-ups.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/project.dir/src/simple_snake.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/project.dir/src/simple_snake.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/project.dir/src/stack.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/project.dir/src/stack.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/project.dir/src/view.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/project.dir/src/view.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map.txt" beforeDir="false" afterPath="$PROJECT_DIR$/map.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project" beforeDir="false" afterPath="$PROJECT_DIR$/project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/project.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/effects.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/effects.c" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <ignored path="$PROJECT_DIR$/CMakeFiles/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="project">
+      <favorite_root url="file://$PROJECT_DIR$/src/physics.c" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="940">
+              <caret line="47" column="66" selection-start-line="47" selection-start-column="66" selection-end-line="47" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/effects.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#2#0" />
+                <element signature="e#81#473#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AI.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/AI.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+              <folding>
+                <element signature="e#37#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/physics.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1700">
+              <caret line="85" column="24" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#2#0" />
+                <element signature="e#239#540#0" />
+                <element signature="e#542#764#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/init.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2520">
+              <caret line="126" column="24" selection-start-line="126" selection-start-column="24" selection-end-line="126" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#2#0" />
+                <element signature="e#372#651#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/effects.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/init.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/logic.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+              <folding>
+                <element signature="e#88#108#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/logic.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4280">
+              <caret line="214" column="23" selection-start-line="214" selection-start-column="23" selection-end-line="214" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#2#0" />
+                <element signature="e#243#321#0" />
+                <element signature="e#324#401#0" />
+                <element signature="e#407#532#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>buttons[*focus]</find>
+      <find>buttons[k]</find>
+      <find>*</find>
+      <find>focus</find>
+      <find>buttons[i]</find>
+      <find>back_btn</find>
+      <find>mainx</find>
+      <find>amin</find>
+      <find>TODO</find>
+      <find>printf(&quot;%d\n&quot;, mode);</find>
+      <find>mode =</find>
+      <find>mode ==</find>
+      <find>key</find>
+      <find>keycode</find>
+      <find>Slash</find>
+      <find>alt</find>
+      <find>score</find>
+      <find>*renderer</find>
+      <find>lighmap-&gt;tanks[k]</find>
+      <find>(mode-1)/5][(mode-1)%5</find>
+      <find>mode</find>
+      <find>tab_co</find>
+      <find>mode = 0</find>
+      <find>backs</find>
+      <find>printf</find>
+      <find>1.2</find>
+      <find>round</find>
+      <find>string</find>
+      <find>map</find>
+      <find>event.</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>map-&gt;players</replace>
+      <replace>map</replace>
+      <replace>map-&gt;tanks</replace>
+      <replace>map-&gt;tanks[player_number]-&gt;</replace>
+      <replace>map-&gt;tanks[i]-&gt;</replace>
+      <replace>map-&gt;bullets</replace>
+      <replace>(*b_node)</replace>
+      <replace>b_node</replace>
+      <replace>map-&gt;tanks[player_number]</replace>
+      <replace>i</replace>
+      <replace>*renderer</replace>
+      <replace>t</replace>
+      <replace>ratio</replace>
+      <replace>tmp</replace>
+      <replace>pRenderer</replace>
+      <replace>map-&gt;window</replace>
+      <replace>&quot;</replace>
+      <replace>buttons[k].</replace>
+      <replace>-&gt;</replace>
+      <replace>(*buttons)[*focus]</replace>
+      <replace>(*buttons)[k]</replace>
+      <replace>*focus</replace>
+      <replace>keys[i][j]</replace>
+      <replace>back_btn</replace>
+      <replace>target_btn</replace>
+      <replace>map-&gt;renderer</replace>
+      <replace>light</replace>
+      <replace>mode-1</replace>
+      <replace>1.3</replace>
+      <replace>event-&gt;</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/function.c" />
+        <option value="$PROJECT_DIR$/src/Struct.c" />
+        <option value="$PROJECT_DIR$/src/Struct.h" />
+        <option value="$PROJECT_DIR$/src/struct.c" />
+        <option value="$PROJECT_DIR$/src/struct.h" />
+        <option value="$PROJECT_DIR$/src/colors.h" />
+        <option value="$PROJECT_DIR$/src/simple_snake.c" />
+        <option value="$PROJECT_DIR$/src/alaki.h" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/src/alaki.c" />
+        <option value="$PROJECT_DIR$/src/other.c" />
+        <option value="$PROJECT_DIR$/src/other.h" />
+        <option value="$PROJECT_DIR$/src/logics.h" />
+        <option value="$PROJECT_DIR$/src/logics.c" />
+        <option value="$PROJECT_DIR$/src/logical.h" />
+        <option value="$PROJECT_DIR$/src/logical.c" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/project.dir/cmake_clean.cmake" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/project.dir/DependInfo.cmake" />
+        <option value="$PROJECT_DIR$/CMakeFiles/Makefile2" />
+        <option value="$PROJECT_DIR$/src/stack.h" />
+        <option value="$PROJECT_DIR$/src/stack.c" />
+        <option value="$PROJECT_DIR$/src/mapmap.txt" />
+        <option value="$PROJECT_DIR$/src/AI.h" />
+        <option value="$PROJECT_DIR$/src/AI.c" />
+        <option value="$PROJECT_DIR$/src/effects.h" />
+        <option value="$PROJECT_DIR$/src/UI.h" />
+        <option value="$PROJECT_DIR$/src/UI.c" />
+        <option value="$PROJECT_DIR$/src/physics.h" />
+        <option value="$PROJECT_DIR$/src/logic.h" />
+        <option value="$PROJECT_DIR$/src/logic.c" />
+        <option value="$PROJECT_DIR$/src/view.h" />
+        <option value="$PROJECT_DIR$/src/structs.h" />
+        <option value="$PROJECT_DIR$/src/power-ups.h" />
+        <option value="$PROJECT_DIR$/src/view.c" />
+        <option value="$PROJECT_DIR$/src/init.h" />
+        <option value="$PROJECT_DIR$/src/power-ups.c" />
+        <option value="$PROJECT_DIR$/src/main.c" />
+        <option value="$PROJECT_DIR$/src/physics.c" />
+        <option value="$PROJECT_DIR$/src/init.c" />
+        <option value="$PROJECT_DIR$/src/effects.c" />
+      </list>
+    </option>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="30" />
+    <option name="y" value="27" />
+    <option name="width" value="1890" />
+    <option name="height" value="789" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Non-Source Files'; set:Project Non-Source Files; class com.jetbrains.cidr.lang.search.scopes.ProjectSourcesScopeProvider$NonSourceFilesScope">
+          <expand>
+            <path>
+              <item name="project" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="project" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Project Source Files'; set:Project Source Files; class com.jetbrains.cidr.lang.search.scopes.ProjectSourcesScopeProvider$SourceFilesScope">
+          <expand>
+            <path>
+              <item name="project" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.project">
+    <configuration name="project" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="project" TARGET_NAME="project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="project" RUN_TARGET_NAME="project">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="project1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="project" TARGET_NAME="project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="project" RUN_TARGET_NAME="project">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.project" />
+      <item itemvalue="CMake Application.project1" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ba8ca5a-09a3-444b-9a4c-62a7fdc81da9" name="Default Changelist" comment="" />
+      <created>1544705700993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544705700993</updated>
+      <workItem from="1544705702457" duration="423000" />
+      <workItem from="1544713388839" duration="689000" />
+      <workItem from="1544726441588" duration="3000" />
+      <workItem from="1544728386037" duration="580000" />
+      <workItem from="1544730393709" duration="121000" />
+      <workItem from="1545044582681" duration="4191000" />
+      <workItem from="1545134435973" duration="10141000" />
+      <workItem from="1545290111538" duration="30773000" />
+      <workItem from="1545337077942" duration="619000" />
+      <workItem from="1545381475741" duration="1266000" />
+      <workItem from="1545382760087" duration="714000" />
+      <workItem from="1545383488767" duration="1160000" />
+      <workItem from="1545385008906" duration="3117000" />
+      <workItem from="1545475092863" duration="12716000" />
+      <workItem from="1545509207079" duration="3726000" />
+      <workItem from="1545512953433" duration="3673000" />
+      <workItem from="1545556389726" duration="1739000" />
+      <workItem from="1545571562700" duration="8764000" />
+      <workItem from="1545581464065" duration="22310000" />
+      <workItem from="1545683265199" duration="886000" />
+      <workItem from="1545684380360" duration="3016000" />
+      <workItem from="1545687411633" duration="3467000" />
+      <workItem from="1545725532878" duration="6684000" />
+      <workItem from="1545838447798" duration="1119000" />
+      <workItem from="1546152012956" duration="1132000" />
+      <workItem from="1546170072109" duration="5613000" />
+      <workItem from="1546193565262" duration="25526000" />
+      <workItem from="1546284599623" duration="5671000" />
+      <workItem from="1546325464233" duration="3491000" />
+      <workItem from="1546351752406" duration="248000" />
+      <workItem from="1546360684730" duration="12439000" />
+      <workItem from="1546375701324" duration="564000" />
+      <workItem from="1546439639941" duration="1709000" />
+      <workItem from="1546500307427" duration="14412000" />
+      <workItem from="1546517040532" duration="2083000" />
+      <workItem from="1546519138595" duration="1555000" />
+      <workItem from="1546520875440" duration="14681000" />
+      <workItem from="1546547353076" duration="25793000" />
+      <workItem from="1546595262927" duration="1330000" />
+      <workItem from="1546627833093" duration="4821000" />
+      <workItem from="1546709155600" duration="7843000" />
+      <workItem from="1546754582701" duration="1708000" />
+      <workItem from="1546773390579" duration="1845000" />
+      <workItem from="1546870013520" duration="342000" />
+      <workItem from="1547016486292" duration="247000" />
+      <workItem from="1547220364295" duration="330000" />
+      <workItem from="1547306325992" duration="600000" />
+      <workItem from="1547371930670" duration="2143000" />
+      <workItem from="1547391367441" duration="94000" />
+      <workItem from="1547454871874" duration="1562000" />
+      <workItem from="1547456451379" duration="3872000" />
+      <workItem from="1547476401262" duration="1268000" />
+      <workItem from="1547479241870" duration="176000" />
+      <workItem from="1547479434675" duration="1155000" />
+      <workItem from="1547480605808" duration="767000" />
+      <workItem from="1547494773309" duration="622000" />
+      <workItem from="1547580608966" duration="167000" />
+      <workItem from="1547801599413" duration="2433000" />
+      <workItem from="1547894218763" duration="353000" />
+      <workItem from="1547908641495" duration="1245000" />
+      <workItem from="1547985050117" duration="2767000" />
+      <workItem from="1548156301662" duration="3369000" />
+      <workItem from="1548171530910" duration="14366000" />
+      <workItem from="1548186435319" duration="4991000" />
+      <workItem from="1548192804767" duration="521000" />
+      <workItem from="1548237521202" duration="1465000" />
+      <workItem from="1548246706954" duration="1691000" />
+      <workItem from="1548273824273" duration="7358000" />
+      <workItem from="1548281428418" duration="4138000" />
+      <workItem from="1548314033729" duration="23013000" />
+      <workItem from="1548406417652" duration="176000" />
+      <workItem from="1548406610121" duration="2376000" />
+      <workItem from="1548409051780" duration="816000" />
+      <workItem from="1548409884995" duration="2315000" />
+      <workItem from="1548451389269" duration="1140000" />
+      <workItem from="1548600365364" duration="1667000" />
+      <workItem from="1548691892578" duration="12326000" />
+      <workItem from="1548705943515" duration="1983000" />
+      <workItem from="1548763682348" duration="5933000" />
+      <workItem from="1548781474821" duration="358000" />
+      <workItem from="1548783806401" duration="3575000" />
+      <workItem from="1548849795916" duration="99000" />
+      <workItem from="1548861699237" duration="2264000" />
+      <workItem from="1548882337733" duration="4521000" />
+      <workItem from="1549018582720" duration="8308000" />
+      <workItem from="1549029585843" duration="1840000" />
+      <workItem from="1549032403236" duration="8562000" />
+      <workItem from="1549051532522" duration="10000" />
+      <workItem from="1549110404360" duration="508000" />
+      <workItem from="1549119539216" duration="50000" />
+      <workItem from="1549119625695" duration="245000" />
+      <workItem from="1549133339895" duration="151000" />
+      <workItem from="1549211021371" duration="630000" />
+      <workItem from="1549276831936" duration="673000" />
+      <workItem from="1549360028596" duration="2297000" />
+      <workItem from="1549745473965" duration="21000" />
+      <workItem from="1549864596926" duration="140000" />
+      <workItem from="1550410480166" duration="6000" />
+    </task>
+    <task id="LOCAL-00001" summary="multi player modified">
+      <created>1545684881135</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1545684881135</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="398406000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5550756" visible="true" weight="0.17289221" />
+      <window_info id="Structure" order="1" sideWeight="0.4449244" side_tool="true" weight="0.15688367" />
+      <window_info id="Favorites" order="2" sideWeight="0.4449244" side_tool="true" weight="0.15645514" />
+      <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.32937366" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.36872998" weight="0.22894168" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4994664" weight="0.39848813" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.32937366" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4994664" weight="0.32937366" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.36766276" weight="0.31425485" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49839914" weight="0.36825055" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.6323373" side_tool="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.4994664" weight="0.32937366" />
+      <window_info anchor="bottom" id="CMake" order="13" sideWeight="0.4994664" weight="0.32937366" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.2497332" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32977587" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="multi player modified" />
+    <option name="LAST_COMMIT_MESSAGE" value="multi player modified" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>m</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>n</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bullets</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7286" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/project_name.cbp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/project.layout">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other.c" />
+    <entry file="file://$PROJECT_DIR$/src/other.h" />
+    <entry file="file://$PROJECT_DIR$/src/logics.h" />
+    <entry file="file://$PROJECT_DIR$/src/alaki.c" />
+    <entry file="file://$PROJECT_DIR$/src/alaki.h" />
+    <entry file="file://$PROJECT_DIR$/src/logics.c" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/project.dir/build.make" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/project.dir/cmake_clean.cmake" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/project.dir/DependInfo.cmake" />
+    <entry file="file:///usr/include/stdlib.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="454" column="12" selection-start-line="454" selection-start-column="12" selection-end-line="454" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/logical.h" />
+    <entry file="file://$PROJECT_DIR$/src/logical.c" />
+    <entry file="file:///usr/include/linux/max2175.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/unistd.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="446" column="20" selection-start-line="446" selection-start-column="20" selection-end-line="446" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/mapmap.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mapmap.txt" />
+    <entry file="file:///usr/include/SDL2/SDL_opengles2_gl2.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/map.txt" />
+    <entry file="file://$PROJECT_DIR$/CMakeFiles/Makefile2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1420">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/SDL2/SDL_mouse.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5620">
+          <caret line="281" column="8" selection-start-line="281" selection-start-column="8" selection-end-line="281" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/SDL2/SDL_keycode.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1060">
+          <caret line="53" column="4" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeFiles/project.dir/build.make">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2780">
+          <caret line="139" selection-start-line="139" selection-end-line="139" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/SDL2/SDL_scancode.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6680">
+          <caret line="334" column="29" selection-start-line="327" selection-start-column="4" selection-end-line="334" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#2#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4006">
+          <caret line="221" column="98" selection-start-line="221" selection-start-column="98" selection-end-line="221" selection-end-column="98" />
+          <folding>
+            <element signature="e#0#2#0" />
+            <element signature="e#340#393#0" />
+            <element signature="e#1190#2652#0" />
+            <element signature="e#2654#2814#0" />
+            <element signature="e#2816#3374#0" />
+            <element signature="e#3376#4686#0" />
+            <element signature="e#4688#5669#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <folding>
+            <element signature="e#38#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6200">
+          <caret line="238" column="56" selection-start-line="238" selection-start-column="56" selection-end-line="238" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#2#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/structs.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1206">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#2#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stack.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stack.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-86">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="e#37#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simple_snake.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/power-ups.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/power-ups.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+          <folding>
+            <element signature="e#38#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/physics.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="940">
+          <caret line="47" column="66" selection-start-line="47" selection-start-column="66" selection-end-line="47" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/effects.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#2#0" />
+            <element signature="e#81#473#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AI.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/physics.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="85" column="24" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#2#0" />
+            <element signature="e#239#540#0" />
+            <element signature="e#542#764#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/init.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2520">
+          <caret line="126" column="24" selection-start-line="126" selection-start-column="24" selection-end-line="126" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#2#0" />
+            <element signature="e#372#651#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/effects.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/init.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/logic.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="e#88#108#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/logic.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4280">
+          <caret line="214" column="23" selection-start-line="214" selection-start-column="23" selection-end-line="214" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#2#0" />
+            <element signature="e#243#321#0" />
+            <element signature="e#324#401#0" />
+            <element signature="e#407#532#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AI.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+          <folding>
+            <element signature="e#37#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
